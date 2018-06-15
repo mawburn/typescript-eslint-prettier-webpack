@@ -1,0 +1,18 @@
+{
+  "parser": "typescript-eslint-parser",
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "extends": ["prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": "error"
+  },
+  "env": {
+    "browser": true,
+    "node": true
+  }
+}
