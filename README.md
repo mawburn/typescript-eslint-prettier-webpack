@@ -18,7 +18,7 @@ or
 
     npm i
 
-Then just remove either the `package.lock.json` or `yarn.lock` depending on your package manager preference.
+Then just remove either the `package-lock.json` or `yarn.lock` depending on your package manager preference.
 
 ## Adding a Framework
 
