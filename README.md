@@ -1,6 +1,6 @@
 # TypeScript Eslint Prettier w/ Webpack - Boilerplate
 
-I mostly made this for personal use, but it's just a simple boilerplate to quickly roll an app with typescript using eslint and prettier instead of tslint.
+I mostly made this for personal use as a configuration reference.
 
 Currently using the beta 7 version of Babel for Typescript support.
 
